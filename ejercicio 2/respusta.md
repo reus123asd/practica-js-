@@ -1,0 +1,6 @@
+¿Cuáles son las diferencias entre desarrollo Frontend y Backend?
+El desarrollo de front-end es el proceso de hacer que un sitio web funcione y se vea bien en un navegador. Por lo general, lo hacen diseñadores y desarrolladores, a veces con aportes del personal de marketing. Los desarrolladores front-end pueden codificar en HTML, CSS y JavaScript para integrar el diseño del cliente con una aplicación, o pueden trabajar con frameworks como AngularJS.
+
+El desarrollo de back-end es el proceso de administrar el almacenamiento de datos y acceder a los datos de una base de datos para mostrarlos en una página web para que los usuarios puedan consumirlos en cualquier dispositivo.
+
+Los desarrolladores de back-end a menudo deben ser fuertes en habilidades como Java, C ++, Ruby on Rails, PHP o Python, mientras que los desarrolladores de front-end pueden necesitar conocer algunos de estos lenguajes. Sin embargo, a menudo utilizan herramientas o frameworks como Bootstrap o Tailwind, que les permiten crear sus interfaces web de forma rápida y sencilla.
