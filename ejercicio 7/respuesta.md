@@ -1,0 +1,1 @@
+formato de archivo que almacena datos estructurados y que se utiliza de manera habitual para transferir información entre un servidor web y un cliente

@@ -1,0 +1,21 @@
+[{
+    "nombre": "coca-cola",
+    "codigo": 1,
+    "precio": 2,
+    "disponibilidad": true,
+    "litros":["1L", "2L","3L"]
+},
+{
+    "nombre": "inka-cola",
+    "codigo": 2,
+    "precio": 2.5,
+    "disponibilidad": true,
+    "litros":["1L", "2L"]
+},
+{
+    "nombre": "pepsi",
+    "codigo": 3,
+    "precio": 2,
+    "disponibilidad": false,
+    "litros":["1L","1.5L"]
+}]

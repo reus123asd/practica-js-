@@ -1,6 +1,6 @@
 const tasks = [
   {
-    name: "Write for Envato Tuts+",
+    name: "write for Envato Tuts+",
     duration: 120,
   },
   {
@@ -20,3 +20,10 @@ console.log(tasks);
 const total = tasks.length;
 console.log(total);
 //
+var tareasFiltradas = [];
+tasks.forEach((tarea) =>{
+  if(tarea.name.toUpperCase().indexOf("W")=== 0){
+    tareasFiltradas.push(tarea)
+  }
+})
+console.log(tareasFiltradas);

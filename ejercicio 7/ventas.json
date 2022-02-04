@@ -1,0 +1,22 @@
+[{
+    "lugar": "puente piedra",
+    "nombre": "plaza vea",
+    "permiso": true,
+    "atencion": "7:30am",
+    "codigo" : 1
+},
+{
+    "lugar": "los olivos",
+    "nombre": "metro",
+    "permiso": true,
+    "atencion": "9:30am",
+    "codigo" : 2
+},
+{
+    "lugar": "puente piedra",
+    "nombre": "tottus",
+    "permiso": true,
+    "atencion": "10:00am",
+    "codigo" : 3
+}
+]
